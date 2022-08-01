@@ -1,0 +1,21 @@
+.filter-component {
+  /* padding: 0px 120px; */
+  /* margin: 10px; */
+  padding-top: 10px;
+}
+.filter-dropdown-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  background-color: #fff;
+  padding: 12px 10px;
+  border-radius: 5px;
+  padding-top: 10px;
+}
+.filter-dropdown-container .MuiFormControl-root {
+  flex: 1;
+}
+.filter-dropdown {
+  flex: 1;
+}

@@ -1,0 +1,16 @@
+.header {
+  padding: 20px 20px;
+  box-shadow: 0 5px 202px rgba(148, 17, 235, 0.5);
+  background-color: rgba(240, 248, 255, 0.87);
+}
+.header li {
+  font-weight: bold;
+}
+.navbar-brand {
+  font-weight: bold;
+}
+.signup-btn {
+  background-color: rgb(113, 84, 243);
+  color: white;
+  font-weight: bold;
+}

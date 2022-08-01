@@ -1,0 +1,22 @@
+.main {
+  background-color: #f1f1f5;
+}
+.main-component {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 20px;
+}
+.main-heading h3 {
+  font-weight: 700;
+}
+.search-bar {
+  width: 222px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+}
+.search-bar input {
+  padding: 5px 18px;
+  border-radius: 5px;
+}
