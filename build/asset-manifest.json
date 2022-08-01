@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ae428d50.css",
+    "main.js": "/static/js/main.735c2d71.js",
+    "static/js/787.2b0a459f.chunk.js": "/static/js/787.2b0a459f.chunk.js",
+    "static/media/villa2.jpg": "/static/media/villa2.0a4e3548d3e87336b379.jpg",
+    "static/media/jphome2.jpg": "/static/media/jphome2.991b0e6a835b8d7f1033.jpg",
+    "static/media/hotel4.jpg": "/static/media/hotel4.3fcb276b057f1a343e83.jpg",
+    "static/media/jphome1.jpg": "/static/media/jphome1.4dda40901785c6331e44.jpg",
+    "static/media/villa1.jpg": "/static/media/villa1.05f90c71e0cb85991f35.jpg",
+    "static/media/home2.jpg": "/static/media/home2.63c035beb1f4a416b697.jpg",
+    "static/media/home4.jpg": "/static/media/home4.63c035beb1f4a416b697.jpg",
+    "static/media/home1.jpg": "/static/media/home1.a41383417661e773327a.jpg",
+    "static/media/home3.jpg": "/static/media/home3.a41383417661e773327a.jpg",
+    "static/media/jphotel2.jpg": "/static/media/jphotel2.2bc9fd05a65a6fbce219.jpg",
+    "static/media/hotel1.jpg": "/static/media/hotel1.a0f704461e1545c48544.jpg",
+    "static/media/jphome3.jpg": "/static/media/jphome3.428b356c5287063c5e34.jpg",
+    "static/media/villa4.jpg": "/static/media/villa4.43641a6f9733c7dbcb29.jpg",
+    "static/media/villa5.jpg": "/static/media/villa5.2e8b2cffc2572a9eac65.jpg",
+    "static/media/jphotel1.jpg": "/static/media/jphotel1.03c833a2ea78b278f934.jpg",
+    "static/media/villa3.jpg": "/static/media/villa3.e3160391472e6f26222b.jpg",
+    "static/media/hotel3.jpg": "/static/media/hotel3.7217411e01d756ff8d0c.jpg",
+    "static/media/hotel2.jpg": "/static/media/hotel2.1494e9ff2891a1ed9317.jpg",
+    "index.html": "/index.html",
+    "main.ae428d50.css.map": "/static/css/main.ae428d50.css.map",
+    "main.735c2d71.js.map": "/static/js/main.735c2d71.js.map",
+    "787.2b0a459f.chunk.js.map": "/static/js/787.2b0a459f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae428d50.css",
+    "static/js/main.735c2d71.js"
+  ]
+}
